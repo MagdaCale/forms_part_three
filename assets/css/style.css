@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+    margin: 100px auto;
+    width: 600px;
+}
+legend {
+    font-size: 20px;
+    margin-left: 5px;
+    padding: 0 5px;
+}
+main form div {
+    margin: 10px 10px;
+}
+main form input {
+    padding-top: 5px;
+}
+
+input[type=submit], input[type=reset] {
+    padding: 3px 8px;
+    background-color: white;
+    border-radius: 5px;
+}
